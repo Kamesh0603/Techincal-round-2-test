@@ -1,0 +1,408 @@
+
+.parentContainer {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  margin: auto;
+  height: auto;
+  flex-shrink: 1;
+
+}
+.firsthalf{
+  position: absolute;
+  width: 720px;
+  height: 1024px;
+  left: 0px;
+  top: 0px;
+  background-color: black;
+}
+.image1{
+  background-image: url("./image1.png");
+  position: relative;
+width: 46px;
+height: 46px;
+left: 23px;
+top: 19px;
+}
+.animeyabu1{
+  position: absolute;
+width: 129px;
+height: 26px;
+left: 83px;
+top: 30px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.065em;
+
+color: #FFFFFF;
+}
+.backbutton{
+  position: absolute;
+left: 60px;
+width:17.21px;
+top: 94.48px;
+height: 21.9px;
+
+background: black;
+transform: rotate(90deg);
+}
+.mask{
+  background-image: url("./mask.png");
+  position: absolute;
+width: 145px;
+height: 149px;
+left: 277px;
+top: 89px;
+}
+.japanese{
+  position: absolute;
+width: 188px;
+height: 46px;
+left: 281px;
+top: 238px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 36.5385px;
+line-height: 55px;
+letter-spacing: 0.065em;
+
+color: #FFFFFF;
+}
+.somecontent{
+  position: absolute;
+width: 120px;
+height: 23px;
+left: 315px;
+top: 293px;
+
+font-family: 'Roboto';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.065em;
+
+color: #FFFFFF;
+}
+.email{
+  position: absolute;
+width: 38px;
+height: 21px;
+left: 184px;
+top: 344px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: -0.103101px;
+
+color: #FFFFFF;
+}
+.input1{
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 343px;
+  height: 60px;
+  left: 183px;
+  top: 365px;
+  
+  background: rgba(255, 255, 255, 0.47);
+  border: 2px solid #AD3C40;
+  border-radius: 10px;
+}
+.senha{
+  position: absolute;
+width: 44px;
+height: 21px;
+left: 184px;
+top: 450px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: -0.103101px;
+
+color: #FFFFFF;
+}
+.input2{
+  box-sizing: border-box;
+
+position: absolute;
+width: 343px;
+height: 60px;
+left: 183px;
+top: 471px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 2px solid #FFFFFF;
+border-radius: 10px;
+}
+.confirmsenha{
+  
+position: absolute;
+width: 118px;
+height: 21px;
+left: 184px;
+top: 556px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: -0.103101px;
+
+color: #FFFFFF;
+}
+.input3{
+  box-sizing: border-box;
+
+position: absolute;
+width: 343px;
+height: 60px;
+left: 183px;
+top: 577px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 2px solid #FFFFFF;
+border-radius: 10px;
+}
+.register{
+  box-sizing: border-box;
+
+position: absolute;
+width: 338px;
+height: 60px;
+left: 184px;
+top: 670px;
+
+background: #E487FB;
+border-radius: 10px;
+}
+.line1{
+  position: absolute;
+width: 80px;
+height: 0px;
+left: 182px;
+top: 783px;
+border: 2px solid #FFFFFF;
+}
+.sometext2{
+  
+position: absolute;
+width: 131px;
+height: 21px;
+left: 289px;
+top: 773px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: -0.103101px;
+
+color: #FFFFFF;
+}
+.line2{
+  position: absolute;
+width: 80px;
+height: 0px;
+left: 444px;
+top: 783px;
+
+border: 2px solid #FFFFFF;
+}
+.rectangle7{
+  background-image: url("./Rectangle7.png");
+  box-sizing: border-box;
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 236px;
+top: 814px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 2px solid #FFFFFF;
+border-radius: 10px;
+}
+.rectangle8{
+  background-image: url("./Rectangle7.png");
+  box-sizing: border-box;
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 330px;
+top: 814px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 2px solid #FFFFFF;
+border-radius: 10px;
+}
+.path2{
+  background-image: url("./Path2.png");
+  position: absolute;
+  width:30.94px;
+  height:25.13px;
+  top:827.3px;
+  left:340.74px;
+
+background: #FCFDFE;
+}
+.rectangle9{
+  background-image: url("./Rectangle7.png");
+  box-sizing: border-box;
+
+position: absolute;
+width: 51px;
+height: 51px;
+left: 424px;
+top: 814px;
+
+background: rgba(255, 255, 255, 0.47);
+border: 2px solid #FFFFFF;
+border-radius: 10px;
+}
+
+
+.lasttext{
+  position: absolute;
+width: 286px;
+height: 23px;
+left: 206px;
+top: 911px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.065em;
+
+color: #FFFFFF;
+}
+
+
+
+
+/* second hald starts from here*/
+
+
+.secondhalf{
+  position: absolute;
+  width: 720px;
+  height: 1024px;
+  left: 720px;
+  top: 0px;
+  background: #3E1149;
+  
+}
+.ellipse2{
+  background-image: url("./Ellipse\ 2.png");
+  position: absolute;
+width: 548px;
+height: 548px;
+left: 74px;
+top: 63px;
+border-radius: 100%;
+
+background: #E487FB;
+}
+.secondhalf_image {
+  background-image: url("./sword.png");
+  position: absolute;
+width: 622px;
+height: 625px;
+left: 80px;
+top: 127px;
+
+}
+.animeyabu{
+  
+position: absolute;
+width: 628.21px;
+height: 125px;
+left: 46px;
+top: 752px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 80.1282px;
+line-height: 94px;
+text-align: center;
+letter-spacing: 0.065em;
+
+color: #FFFFFF;
+}
+.bottomtext{
+  position: absolute;
+width: 463px;
+height: 68px;
+left: 131px;
+top: 853px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.rectangles{
+  position: absolute;
+width: 39px;
+height: 6px;
+left: 297px;
+top: 944px;
+background: #C4C4C4;
+border-radius: 53px;
+}
+.rectangles2{
+  position: absolute;
+width: 39px;
+height: 6px;
+left: 343px;
+top: 944px;
+
+background: rgba(196, 196, 196, 0.48);
+border-radius: 53px;
+}
+.rectangles3{
+  position: absolute;
+width: 39px;
+height: 6px;
+left: 389px;
+top: 944px;
+
+background: rgba(196, 196, 196, 0.48);
+border-radius: 53px;
+}
